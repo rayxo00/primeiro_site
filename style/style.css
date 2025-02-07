@@ -1,0 +1,13 @@
+*{
+   margin: 0;
+}
+body{
+    height: 100%;
+    position: relative;
+    background-color: rgb(235, 222, 245);
+    background-image:url('/image/cardking.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+    overflow: hidden
+}
+
